@@ -5,7 +5,7 @@
 - 👯 Eu procuro Evoluir praticando e Trabalhando sobre ferramentas essenciais para solucao de duvidas.
 - 🤔 Eu estou observando sobre como posso oferecer ajuda.
 - 💬 Me pergunte sobre quais sao meus maiores objetivos de vida
-- 📫 Me encontre no Instagram: vitrrchm; e Email:dleggdraw@gmail.com 
+- 📫 Me encontre no Instagram: @vitrrchm; e Email:dleggdraw@gmail.com 
 - 😄 Pronomes: Ele/dele
 - ⚡ Fato engracado: "Um pouco desastrado porem impressionista", quem eh?
   
