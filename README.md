@@ -7,7 +7,7 @@
 - 💬 Me pergunte sobre quais sao meus maiores objetivos de vida
 - 📫 Me encontre no Instagram: @vitrrchm; e Email:dleggdraw@gmail.com 
 - 😄 Pronomes: Ele/dele
-- ⚡ Fato engracado: "Um pouco desastrado porem impressionista", quem eh?
+- ⚡ Fato engracado: "Um pouco desastrado porem impressionista"
   
 
 
