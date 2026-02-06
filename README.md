@@ -2,8 +2,8 @@
 
 - 🔭 Hoje eu estudo Analise e desenvolvimento de sistemas na UniSenac - 4 semestre atualmente.
 - 🌱 Atualmente estudo sobre Python, JavaScript, HTML e CSS, SQL, entre outros.
-- 👯 Eu procuro Evoluir praticando e Trabalhando sobre ferramentas essenciais para solucao de duvidas.
-- 🤔 Eu estou observando sobre como posso oferecer ajuda.
+- 👯 Eu procuro Evoluir praticando e Trabalhando sobre ferramentas essenciais para solucoes.
+- 🤔 Estou focado em como posso oferecer ajuda.
 - 💬 Me pergunte sobre quais sao meus maiores objetivos de vida
 - 📫 Me encontre no Instagram: @vitrrchm; e Email:dleggdraw@gmail.com 
 - 😄 Pronomes: Ele/dele
@@ -23,6 +23,15 @@
   <img align="center" alt="vitor-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   
   <img align="center" alt="vitor-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+
+  <img align="center" alt="vitor-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  
+  <img align="center" alt="vitor-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
+  <img align="center" alt="vitor-Nodemon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" />
+ 
+
+          
 
 ***************************************************************************************************
 
