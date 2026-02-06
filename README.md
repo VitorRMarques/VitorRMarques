@@ -2,8 +2,8 @@
 
 - 🔭 Hoje eu estudo Analise e desenvolvimento de sistemas na UniSenac - 4 semestre atualmente.
 - 🌱 Atualmente estudo sobre Python, JavaScript, HTML e CSS, SQL, entre outros.
-- 👯 Eu procuro Evoluir praticando e Trabalhando sobre ferramentas essenciais para solucoes.
-- 🤔 Estou focado em como posso oferecer ajuda.
+- 👯 Eu procuro Evoluir Praticando e Trabalhando com ferramentas essenciais para solucoes.
+- 🤔 Estou focado em oferecer ajuda.
 - 💬 Me pergunte sobre quais sao meus maiores objetivos de vida
 - 📫 Me encontre no Instagram: @vitrrchm; e Email:dleggdraw@gmail.com 
 - 😄 Pronomes: Ele/dele
