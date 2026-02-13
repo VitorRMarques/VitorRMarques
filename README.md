@@ -1,14 +1,10 @@
 ## Hi there 👋
 
-- 🔭 Hoje eu estudo Analise e desenvolvimento de sistemas na UniSenac - 4 semestre atualmente.
-- 🌱 Atualmente estudo sobre Python, JavaScript, HTML e CSS, SQL, entre outros.
+- 🔭 Estudante de Análise e desenvolvimento de sistemas na UniSenac - 4º semestre atualmente.
+- 🌱 Atualmente estudo sobre Python, JavaScript, HTML e CSS, SQL.
 - 👯 Eu procuro Evoluir Praticando e Trabalhando com ferramentas essenciais para solucoes.
-- 🤔 Estou focado em oferecer ajuda.
-- 💬 Me pergunte sobre quais sao meus maiores objetivos de vida
-- 📫 Me encontre no Instagram: @vitrrchm; e Email:dleggdraw@gmail.com 
-- 😄 Pronomes: Ele/dele
-  
-
+- 💬 Me pergunte sobre quais sao meus maiores objetivos.
+- 📫 Me encontre no Instagram: @vitrrchm; e Email:dleggdraw@gmail.com   
 
 <div style="display: inline-block"><br>
 
