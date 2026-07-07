@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Estudante de Análise e desenvolvimento de sistemas na UniSenac - 4º semestre atualmente.
+- 🔭 Estudante de Análise e desenvolvimento de sistemas na UniSenac - 5º semestre.
 - 🌱 Atualmente estudo Python, JavaScript, HTML e CSS, SQL.
 - 👯 Eu procuro Evoluir Praticando e Trabalhando com ferramentas essenciais para solucoes.
 - 💬 Me pergunte sobre quais sao meus maiores objetivos.
